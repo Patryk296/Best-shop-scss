@@ -10,5 +10,7 @@
 @use "./scss/elements/opening";
 @use "./scss/elements/pricing";
 @use "./scss/elements/statistics";
+@use "./scss/elements/calculator";
 
+@use "./scss/elements/calculator" as calcModule;
 
